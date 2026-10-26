@@ -35,5 +35,10 @@ ml-forge/
 │   ├── spam.csv
 │   └── database.sqlite
 │
+├── Week8/
+│   ├── Lab8_SVM_Shahzaib.ipynb
+│   ├── clean_churn.csv
+│   └── svm_predictions.csv
+│
 ├── .gitignore
 └── README.md
